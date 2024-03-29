@@ -1,0 +1,1 @@
+{"uuid":"96240fff-65b1-4849-bfb2-c0a35d8b6e0f","name":"com.inetBanking.testCases.TC_LoginTest_001","children":["cd1cd8e5-bdd0-40fa-8caa-c2f7c5541982"],"befores":[{"name":"LoadConfig","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1711448073667,"stop":1711448073684}],"afters":[],"start":1711448073583,"stop":1711448074083}
